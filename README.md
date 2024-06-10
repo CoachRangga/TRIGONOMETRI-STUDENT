@@ -1,4 +1,4 @@
 # TRIGONOMETRI-STUDENT
 
-[show in browser](https://CoachRangga.github.io/TRIGONOMETRI-STUDENT/)
+[show in browser](https://coachrangga.github.io/TRIGONOMETRI-STUDENT/)
 
